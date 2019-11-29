@@ -1,42 +1,37 @@
 [
-  {
-    "id": 1,
-    "title": "Notebook",
-    "price": 1000
-  },
-  {
-    "id": 2,
-    "title": "Display",
-    "price": 200
-  },
-  {
-    "id": 3,
-    "title": "Keyboard",
-    "price": 20
-  },
-  {
-    "id": 4,
-    "title": "Mouse",
-    "price": 10
-  },
-  {
-    "id": 5,
-    "title": "Phones",
-    "price": 25
-  },
-  {
-    "id": 6,
-    "title": "Router",
-    "price": 30
-  },
-  {
-    "id": 7,
-    "title": "USB-camera",
-    "price": 18
-  },
-  {
-    "id": 8,
-    "title": "Gamepad",
-    "price": 24
-  }
-]
+    {
+      "id": 1,
+      "title": "Yokohama",
+      "price": 6740
+    },
+    {
+      "id": 2,
+      "title": "TOYO",
+      "price": 7570
+    },
+    {
+      "id": 3,
+      "title": "Triangle",
+      "price": 4150
+    },
+    {
+      "id": 4,
+      "title": "Continental",
+      "price": 9650
+    },
+    {
+      "id": 5,
+      "title": "Pirelli",
+      "price": 8410
+    },
+    {
+      "id": 6,
+      "title": "Michelin",
+      "price": 10350
+    },
+    {
+      "id": 7,
+      "title": "Nokian",
+      "price": 4470
+    }
+  ]
